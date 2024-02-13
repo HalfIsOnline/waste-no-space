@@ -1,0 +1,15 @@
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://bggvl1nc2d0w"]
+
+[ext_resource type="Texture2D" uid="uid://t20dgrjecn2g" path="res://addons/waste_no_space/textures/waste_no_space_64x64_gui.png" id="1_c0iwk"]
+
+[resource]
+content_margin_left = 4.0
+content_margin_top = 4.0
+content_margin_right = 4.0
+content_margin_bottom = 4.0
+texture = ExtResource("1_c0iwk")
+texture_margin_left = 2.0
+texture_margin_top = 2.0
+texture_margin_right = 2.0
+texture_margin_bottom = 2.0
+region_rect = Rect2(1, 1, 5, 5)

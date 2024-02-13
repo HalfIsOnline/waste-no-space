@@ -1,0 +1,8 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://cg0ph33n70w2d"]
+
+[ext_resource type="FontFile" uid="uid://pntlljl77f2n" path="res://addons/waste_no_space/fonts/Poco.ttf" id="1_ufasj"]
+
+[resource]
+base_font = ExtResource("1_ufasj")
+spacing_top = -4
+spacing_bottom = 2

@@ -1,0 +1,9 @@
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://qo0ajobt148g"]
+
+[ext_resource type="Texture2D" uid="uid://t20dgrjecn2g" path="res://addons/waste_no_space/textures/waste_no_space_64x64_gui.png" id="1_8agqv"]
+
+
+
+[resource]
+texture = ExtResource("1_8agqv")
+region_rect = Rect2(75, 10, 1, 2)
